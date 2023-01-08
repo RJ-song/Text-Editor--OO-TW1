@@ -1,0 +1,41 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-01-09 00:22:20 #1 store] 
+Database 'C:\Users\user\Desktop\class\OO\TW1\TextEditor\db\user.odb' is opened by 6072@DESKTOP-RMHDGMV
+
+[2023-01-09 00:22:20 #2 store] 
+Configuration path: C:\Users\user\Desktop\class\OO\TW1\TextEditor\objectdb.conf
+
+[2023-01-09 00:22:21 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+[2023-01-09 00:22:21 #4 store] 
+Database 'C:\Users\user\Desktop\class\OO\TW1\TextEditor\db\user.odb' is closed by 6072@DESKTOP-RMHDGMV
+
+[2023-01-09 00:22:30 #5 store] 
+Database 'C:\Users\user\Desktop\class\OO\TW1\TextEditor\db\user.odb' is opened by 6072@DESKTOP-RMHDGMV
+
+[2023-01-09 00:22:30 #6 store] 
+Configuration path: C:\Users\user\Desktop\class\OO\TW1\TextEditor\objectdb.conf
+
+[2023-01-09 00:22:30 #7 store] 
+Database 'C:\Users\user\Desktop\class\OO\TW1\TextEditor\db\user.odb' is closed by 6072@DESKTOP-RMHDGMV
+
+[2023-01-09 00:22:32 #8 store] 
+Database 'C:\Users\user\Desktop\class\OO\TW1\TextEditor\db\user.odb' is opened by 6072@DESKTOP-RMHDGMV
+
+[2023-01-09 00:22:32 #9 store] 
+Configuration path: C:\Users\user\Desktop\class\OO\TW1\TextEditor\objectdb.conf
+
+[2023-01-09 00:22:32 #10 store] 
+Database 'C:\Users\user\Desktop\class\OO\TW1\TextEditor\db\user.odb' is closed by 6072@DESKTOP-RMHDGMV
+
+[2023-01-09 00:22:33 #11 store] 
+Database 'C:\Users\user\Desktop\class\OO\TW1\TextEditor\db\user.odb' is opened by 6072@DESKTOP-RMHDGMV
+
+[2023-01-09 00:22:33 #12 store] 
+Configuration path: C:\Users\user\Desktop\class\OO\TW1\TextEditor\objectdb.conf
+
+[2023-01-09 00:22:33 #13 store] 
+Database 'C:\Users\user\Desktop\class\OO\TW1\TextEditor\db\user.odb' is closed by 6072@DESKTOP-RMHDGMV
+

@@ -1,0 +1,378 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 00:01:33 #1 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version5\TextEditor\db\user.odb' has been recovered (tr. 6-11)
+
+[2022-11-02 00:01:33 #2 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version5\TextEditor\db\user.odb' is opened by 47496@LAPTOP-3G6V943I
+
+[2022-11-02 00:01:33 #3 store] 
+Configuration path: C:\Users\USER\Dropbox\PC\Desktop\OO\TW1\code\version5\TextEditor\objectdb.conf
+
+[2022-11-02 00:02:49 #4 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version5\TextEditor\db\user.odb' is closed by 47496@LAPTOP-3G6V943I
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 00:04:52 #1 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version5\TextEditor\db\user.odb' is opened by 45272@LAPTOP-3G6V943I
+
+[2022-11-02 00:04:52 #2 store] 
+Configuration path: C:\Users\USER\Desktop\OO\TW1\code\version5\TextEditor\objectdb.conf
+
+[2022-11-02 00:04:52 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 00:55:26 #1 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 15000@DESKTOP-AS2BO6R
+
+[2022-11-02 00:55:26 #2 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 00:55:26 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+[2022-11-02 00:55:26 #4 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is closed by 15000@DESKTOP-AS2BO6R
+
+[2022-11-02 00:55:45 #5 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 15000@DESKTOP-AS2BO6R
+
+[2022-11-02 00:55:45 #6 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 02:21:37 #1 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' has been recovered (tr. 13-18)
+
+[2022-11-02 02:21:37 #2 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 18372@DESKTOP-AS2BO6R
+
+[2022-11-02 02:21:37 #3 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 02:21:37 #4 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+[2022-11-02 02:21:37 #5 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is closed by 18372@DESKTOP-AS2BO6R
+
+[2022-11-02 02:22:19 #6 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 18372@DESKTOP-AS2BO6R
+
+[2022-11-02 02:22:19 #7 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 02:22:19 #8 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is closed by 18372@DESKTOP-AS2BO6R
+
+[2022-11-02 02:22:41 #9 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 18372@DESKTOP-AS2BO6R
+
+[2022-11-02 02:22:41 #10 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 02:22:41 #11 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is closed by 18372@DESKTOP-AS2BO6R
+
+[2022-11-02 02:23:02 #12 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 18372@DESKTOP-AS2BO6R
+
+[2022-11-02 02:23:02 #13 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 02:23:02 #14 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is closed by 18372@DESKTOP-AS2BO6R
+
+[2022-11-02 02:23:17 #15 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 18372@DESKTOP-AS2BO6R
+
+[2022-11-02 02:23:17 #16 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 02:23:17 #17 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is closed by 18372@DESKTOP-AS2BO6R
+
+[2022-11-02 02:23:32 #18 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 18372@DESKTOP-AS2BO6R
+
+[2022-11-02 02:23:32 #19 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 02:23:32 #20 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is closed by 18372@DESKTOP-AS2BO6R
+
+[2022-11-02 02:23:48 #21 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 18372@DESKTOP-AS2BO6R
+
+[2022-11-02 02:23:48 #22 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 02:23:48 #23 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is closed by 18372@DESKTOP-AS2BO6R
+
+[2022-11-02 02:24:10 #24 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 18372@DESKTOP-AS2BO6R
+
+[2022-11-02 02:24:10 #25 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 02:24:10 #26 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is closed by 18372@DESKTOP-AS2BO6R
+
+[2022-11-02 02:24:27 #27 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 18372@DESKTOP-AS2BO6R
+
+[2022-11-02 02:24:27 #28 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 02:25:02 #1 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 19140@DESKTOP-AS2BO6R
+
+[2022-11-02 02:25:02 #2 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 02:26:00 #3 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is closed by 19140@DESKTOP-AS2BO6R
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 02:26:49 #1 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 8812@DESKTOP-AS2BO6R
+
+[2022-11-02 02:26:49 #2 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 02:26:49 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 03:25:16 #1 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' has been recovered (tr. 27-30)
+
+[2022-11-02 03:25:16 #2 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 3588@DESKTOP-AS2BO6R
+
+[2022-11-02 03:25:16 #3 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 03:25:16 #4 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 03:50:37 #1 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 18248@DESKTOP-AS2BO6R
+
+[2022-11-02 03:50:37 #2 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 03:50:37 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 04:28:51 #1 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 2484@DESKTOP-AS2BO6R
+
+[2022-11-02 04:28:51 #2 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 04:28:51 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 04:39:00 #1 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 6280@DESKTOP-AS2BO6R
+
+[2022-11-02 04:39:00 #2 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 04:39:00 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 04:40:09 #1 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 324@DESKTOP-AS2BO6R
+
+[2022-11-02 04:40:09 #2 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 04:40:10 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 07:06:37 #1 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 1212@DESKTOP-AS2BO6R
+
+[2022-11-02 07:06:37 #2 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 07:07:08 #3 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is closed by 1212@DESKTOP-AS2BO6R
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 07:11:19 #1 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 11984@DESKTOP-AS2BO6R
+
+[2022-11-02 07:11:19 #2 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 07:11:19 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 07:11:47 #1 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 19144@DESKTOP-AS2BO6R
+
+[2022-11-02 07:11:47 #2 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 07:12:18 #3 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is closed by 19144@DESKTOP-AS2BO6R
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 07:13:14 #1 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 15740@DESKTOP-AS2BO6R
+
+[2022-11-02 07:13:14 #2 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 07:13:14 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 07:13:25 #1 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 10000@DESKTOP-AS2BO6R
+
+[2022-11-02 07:13:25 #2 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 07:13:25 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 07:13:36 #1 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 3544@DESKTOP-AS2BO6R
+
+[2022-11-02 07:13:36 #2 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 07:18:25 #3 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is closed by 3544@DESKTOP-AS2BO6R
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 07:18:36 #1 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 19956@DESKTOP-AS2BO6R
+
+[2022-11-02 07:18:36 #2 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 07:19:03 #3 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is closed by 19956@DESKTOP-AS2BO6R
+
+[2022-11-02 07:19:03 #4 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is opened by 19956@DESKTOP-AS2BO6R
+
+[2022-11-02 07:19:03 #5 store] 
+Configuration path: C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\objectdb.conf
+
+[2022-11-02 07:19:29 #6 store] 
+Database 'C:\Users\USER\Desktop\class\111-1\OO\TW1\TextEditor_version1102\db\user.odb' is closed by 19956@DESKTOP-AS2BO6R
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 09:42:47 #1 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version6\TextEditor\db\user.odb' is opened by 43496@LAPTOP-3G6V943I
+
+[2022-11-02 09:42:47 #2 store] 
+Configuration path: C:\Users\USER\Desktop\OO\TW1\code\version6\TextEditor\objectdb.conf
+
+[2022-11-02 09:42:47 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 19:31:37 #1 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version6\TextEditor\db\user.odb' is opened by 31112@LAPTOP-3G6V943I
+
+[2022-11-02 19:31:37 #2 store] 
+Configuration path: C:\Users\USER\Desktop\OO\TW1\code\version6\TextEditor\objectdb.conf
+
+[2022-11-02 19:31:38 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 20:31:23 #1 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version6\TextEditor\db\user.odb' has been recovered (tr. 31-31)
+
+[2022-11-02 20:31:23 #2 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version6\TextEditor\db\user.odb' is opened by 37368@LAPTOP-3G6V943I
+
+[2022-11-02 20:31:23 #3 store] 
+Configuration path: C:\Users\USER\Desktop\OO\TW1\code\version6\TextEditor\objectdb.conf
+
+[2022-11-02 20:31:23 #4 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+[2022-11-02 20:31:24 #5 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version6\TextEditor\db\user.odb' is closed by 37368@LAPTOP-3G6V943I
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 20:33:03 #1 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version6\TextEditor\db\user.odb' is opened by 43700@LAPTOP-3G6V943I
+
+[2022-11-02 20:33:03 #2 store] 
+Configuration path: C:\Users\USER\Desktop\OO\TW1\code\version6\TextEditor\objectdb.conf
+
+[2022-11-02 20:33:03 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+[2022-11-02 20:33:03 #4 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version6\TextEditor\db\user.odb' is closed by 43700@LAPTOP-3G6V943I
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 20:39:43 #1 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version6\TextEditor\db\user.odb' is opened by 40688@LAPTOP-3G6V943I
+
+[2022-11-02 20:39:43 #2 store] 
+Configuration path: C:\Users\USER\Desktop\OO\TW1\code\version6\TextEditor\objectdb.conf
+
+[2022-11-02 20:39:43 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+[2022-11-02 20:39:43 #4 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version6\TextEditor\db\user.odb' is closed by 40688@LAPTOP-3G6V943I
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-02 20:41:45 #1 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version6\TextEditor\db\user.odb' is opened by 48964@LAPTOP-3G6V943I
+
+[2022-11-02 20:41:45 #2 store] 
+Configuration path: C:\Users\USER\Desktop\OO\TW1\code\version6\TextEditor\objectdb.conf
+
+[2022-11-02 20:41:45 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+[2022-11-02 20:41:45 #4 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version6\TextEditor\db\user.odb' is closed by 48964@LAPTOP-3G6V943I
+

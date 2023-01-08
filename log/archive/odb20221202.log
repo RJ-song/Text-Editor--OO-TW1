@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-12-02 18:30:58 #1 store] 
+Database 'C:\Users\user\Desktop\class\OO\TW1\TextEditor_version1113(1)\db\user.odb' is opened by 7724@DESKTOP-RMHDGMV
+
+[2022-12-02 18:30:58 #2 store] 
+Configuration path: C:\Users\user\Desktop\class\OO\TW1\TextEditor_version1113(1)\objectdb.conf
+
+[2022-12-02 18:30:58 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+[2022-12-02 18:30:58 #4 store] 
+Database 'C:\Users\user\Desktop\class\OO\TW1\TextEditor_version1113(1)\db\user.odb' is closed by 7724@DESKTOP-RMHDGMV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-12-02 18:48:23 #1 store] 
+Database 'C:\Users\user\Desktop\class\OO\TW1\TextEditor_version1113(1)\db\user.odb' is opened by 18340@DESKTOP-RMHDGMV
+
+[2022-12-02 18:48:23 #2 store] 
+Configuration path: C:\Users\user\Desktop\class\OO\TW1\TextEditor_version1113(1)\objectdb.conf
+
+[2022-12-02 18:48:23 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+[2022-12-02 18:48:23 #4 store] 
+Database 'C:\Users\user\Desktop\class\OO\TW1\TextEditor_version1113(1)\db\user.odb' is closed by 18340@DESKTOP-RMHDGMV
+
